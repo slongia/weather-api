@@ -1,0 +1,6 @@
+{
+    "name":"asp.net core dev",
+    "image":"mcr.microsoft.com/dotnet/sdk:10.0",
+    "features":{},
+    "postCreateCommand": "dotnet --version"
+}
